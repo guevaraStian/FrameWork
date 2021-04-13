@@ -1,0 +1,81 @@
+
+npm install -g ionic cordova   // instalar, se ingresa dentro de users y dentro de la carpeta del usuario
+ionic start nombredelproyecto --help
+ionic start nombredelproyecto tutorial --v2   //se pone tutorial porque es la plantilla y es version 2 de ionic
+ionic start nombredelproyecto  //sin plantilla ni version
+ionic start nombredelproyecto --type=ionic1 
+ionic start nombredelproyecto --type=ionic-angular 
+ionic serve    //para cargar el programa, esto se hace dentro de la carpeta del programa
+ionic serve --lab  //para que la aplicacion cargue en celular
+
+ionic generate page pages/landing
+ionic generate page pages/auth/login
+ionic generate page pages/auth/register
+ionic generate page pages/dashboard
+ionic generate service services/auth
+ionic generate service services/alert
+ionic generate service services/env
+ionic generate guard guard/auth
+
+ionic cordova plugin add cordova-plugin-nativestorage
+npm install @ionic-native/native-storage
+
+----------------------
+
+incompleto https://www.youtube.com/watch?v=3xu7DAROZLo&list=PLNeY9BVjevarnNIdWfaSxtURfHRlNM8HV&index=10
+login son backend   https://www.youtube.com/watch?v=z_kk-N3AMB0
+
+Login completo https://blog.flicher.net/ionic-4-user-registration-login-tutorial/
+
+TERMINADO Y EN USO ES LA APLICACION "login"
+https://www.youtube.com/watch?v=fow7fHNW4Fw
+https://console.firebase.google.com/project/loginionic-d80b3/authentication/users?hl=es-419
+
+CONEXION PROVIDER END POIN
+https://www.nigmacode.com/ionic/conectar-api-con-ionic/
+1)ionic g provider post-service  //sale error y lo cree manualmente
+2)al momento de copiar todo lo que dice en app.module.ts me sale error si copio todo
+3)no corre el programa
+
+COMPLETO CONEXION PROVIDER END POIN 2
+https://dcarvajal7.es/llamando-a-servicios-rest-desde-ionic-4/
+
+--------------------------
+
+provider - mas seguro
+provider -> login
+
+abre puerto del computador
+mockoon -> api res endpoin, es7
+
+me conecto al api, despues de conectarme al api se recibe un json con estructura del login, se autentica desde la vista, 
+provider se conecta con el api, recibe el json y enviar el json a la vista 
+
+https://ionicframework.com/docs/angular/lifecycle
+https://mockoon.com/
+
+
+promesas
+api res provider endpoin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

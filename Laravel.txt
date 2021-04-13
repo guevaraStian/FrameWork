@@ -1,0 +1,24 @@
+///////////////////////COMANDOS DE LARAVEL
+
+composer create laravel/laravel usuarios
+composer create-project --prefer-dist laravel/laravel sistema
+composer require laravel/ui
+php artisan ui bootstrap --auth
+php artisan make:auth   //crear la autentificacion en la pagina
+php artisan serve
+php artisan make:controller nombredelcontrolador -resource  //crear un controlador
+php artisan make:model Usuario -m    //crear el archivo de migracion
+php artisan make:model Models/Client -m   //Crear la migracion
+php artisan make:model Empleados -mcr
+php artisan make:model Trabajadores -mcr
+
+php artisan route:list  //para ver la lista de las paginas
+php artisan migrate   //migrar la informacion de base de datos al bd
+
+///////////////////EXTENSIONES
+
+BOOTSTRAP V4 snippets
+intellisense for css class
+laravel 5 snippets
+php intelephense
+
