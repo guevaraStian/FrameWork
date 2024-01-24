@@ -9,8 +9,12 @@ git push origin main
 //sino carga usas este: 
 git push origin main --force
 
-/////CUANDO EL PROYECTO GITHUB ESTA CREADO
+//////CLONAR UN REPOSITORIO
+git init
+git clone https://github.com/guevaraStian/nombredelgit
+git push origin master
 
+/////CUANDO EL PROYECTO GITHUB ESTA CREADO
 git update-git-for-windows
 .gitignore  // para ignorar un archivo
 git init

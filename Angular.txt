@@ -4,8 +4,8 @@ Algunos comandos que se usa en el framework angular, y en la mayoria de casos, e
 npm install
 
 npm init
-n
-pm update
+
+npm update
 
 npm restart  --reiniciar
 
@@ -16,9 +16,6 @@ npm stop  --Se utiliza para detener la ejecución de un paquete.
 npm version  --Muestra la versión actual de npm instalada en tu ordenador.
 
 npm publish
-
-nvm ls  -- Listar todas las versiones de node instaladas:
-
 
 npm init
 Package name: restapisnode
@@ -45,6 +42,8 @@ nvm uninstall [version] --Desinstalar una versión específica:
 nvm alias default [version]   --Establecer una versión de node por defecto
 
 
+
+nvm ls  -- Listar todas las versiones de node instaladas:
 
 
 //PM2
