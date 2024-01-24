@@ -2,19 +2,12 @@ Algunos comandos que se usa en el framework angular, y en la mayoria de casos, e
 
 //NPM
 npm install
-
 npm init
-
 npm update
-
 npm restart  --reiniciar
-
 npm start  --Se utiliza para iniciar un paquete cuando es necesario.
-
-npm stop  --Se utiliza para detener la ejecución de un paquete.
-
-npm version  --Muestra la versión actual de npm instalada en tu ordenador.
-
+npm stop  --Se utiliza para detener la ejecuciï¿½n de un paquete.
+npm version  --Muestra la versiï¿½n actual de npm instalada en tu ordenador.
 npm publish
 
 npm init
@@ -29,49 +22,28 @@ npm install --save shortid multer //molter
 npm install --cache
 
 //NVM
-nvm install node  --Instalar la última versión de node:
-
+nvm install node  --Instalar la ï¿½ltima versiï¿½n de node:
 nvm ls-remote   --Ver todas las versiones de node disponibles para instalar:
-
-nvm install [version]   --Instalar una versión específica:
-
-nvm use <version>   --Utilizar una versión específica:
-
-nvm uninstall [version] --Desinstalar una versión específica:
-
-nvm alias default [version]   --Establecer una versión de node por defecto
-
-
-
+nvm install [version]   --Instalar una versiï¿½n especï¿½fica:
+nvm use <version>   --Utilizar una versiï¿½n especï¿½fica:
+nvm uninstall [version] --Desinstalar una versiï¿½n especï¿½fica:
+nvm alias default [version]   --Establecer una versiï¿½n de node por defecto
 nvm ls  -- Listar todas las versiones de node instaladas:
 
-
 //PM2
-pm2 start [archivo]: este es uno de los comandos PM2 que inicia una aplicación de Node.js.
-
-pm2 startup: configura PM2 para que se inicie automáticamente en el arranque del sistema.
-
-pm2 stop [all]: detiene todas las aplicaciones administradas por PM2.
-
-pm2 delete [all]: elimina todas las aplicaciones del gestor.
-
-pm2 reload all: recarga todas las aplicaciones en PM2 sin tiempo de inactividad.
-
-pm2 ecosystem: este es uno de los comandos PM2 que crea un archivo de configuración de ecosystem para tus aplicaciones.
-
-pm2 logs: muestra los registros de todas las aplicaciones en vivo.
-
-pm2 logs app: muestra los registros en vivo de una aplicación específica.
-
-pm2 logs app – lines 100: limita los registros mostrados a las últimas 100 líneas.
-
-pm2 logs – json: muestra los registros en formato JSON.
-
-pm2 logs – format: personaliza el formato de los registros.
-
-pm2 list –watch: muestra una lista de aplicaciones y actualiza automáticamente.
-
-pm2 monit: monitorea el uso de recursos y el estado de tus aplicaciones.
+pm2 start [archivo] -- este es uno de los comandos PM2 que inicia una aplicaciï¿½n de Node.js.
+pm2 startup -- configura PM2 para que se inicie automï¿½ticamente en el arranque del sistema.
+pm2 stop [all] -- detiene todas las aplicaciones administradas por PM2.
+pm2 delete [all] -- elimina todas las aplicaciones del gestor.
+pm2 reload all -- recarga todas las aplicaciones en PM2 sin tiempo de inactividad.
+pm2 ecosystem -- este es uno de los comandos PM2 que crea un archivo de configuraciï¿½n de ecosystem para tus aplicaciones.
+pm2 logs --  muestra los registros de todas las aplicaciones en vivo.
+pm2 logs app -- muestra los registros en vivo de una aplicaciï¿½n especï¿½fica.
+pm2 logs app - lines 100 -- limita los registros mostrados a las ï¿½ltimas 100 lï¿½neas.
+pm2 logs - json -- muestra los registros en formato JSON.
+pm2 logs - format -- personaliza el formato de los registros.
+pm2 list - watch -- muestra una lista de aplicaciones y actualiza automï¿½ticamente.
+pm2 monit -- monitorea el uso de recursos y el estado de tus aplicaciones.
 
 
 
