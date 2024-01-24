@@ -1,0 +1,63 @@
+/////GITHUB
+//LA PRIMERA VEZ QUE CREAMOS UN PROYECTO EN GITHUB
+git init
+git add .
+git commit -m "mi comentario"
+git branch -M main
+git remote add origin https://github.com/NombreGitHab/NombreAplicacion.git    //se crea el nuevo repositorio y se anexa aqui
+git push origin main
+//sino carga usas este: 
+git push origin main --force
+
+/////CUANDO EL PROYECTO GITHUB ESTA CREADO
+
+git update-git-for-windows
+.gitignore  // para ignorar un archivo
+git init
+git add .
+git commit -m "Parte de controlador"
+git push -u origin main           //este o el de abajo
+git push origin main --force
+git remote add origin https://github.com/guevaraStian/restapi.git    //se crea el nuevo repositorio y se anexa aqui
+git push -u origin master
+
+git pull https://github.com/guevaraStian/restapi.git main 
+
+
+///COMANDOS DE GIT
+
+git branch -M main
+git push -u origin main
+
+git pull origin main
+git merge origin/main
+git push origin main --allow-unrelated-histories
+
+git push origin main --force
+
+git config --global user.name "SebasGS"
+git config --global user.email "Sebasguesa@hotmail.com"
+git config --global -l
+git init
+git status
+git add .
+git commit -m "commit inicial"
+git diff
+git checkout .
+git log 
+git reset css/*.css
+git commit --amend -m "aqui escribo la correccion del commit"
+git mv nombreanterior   nuevonombre
+git rm nombredelarchivoaborrar
+git log --oneline --decorate --all --graph
+git tag -a v0.0.1
+git tag -d v0.0.1
+git remote add origin https://github.com/guevaraStian/nombredelgit
+git clone https://github.com/guevaraStian/nombredelgit
+git push origin master
+
+
+////VSCODE
+ctl k + ctl c   //comentar grupo largo de codigo
+ctl k + ctl u   // descomentar 
+alt + shif + f   //organiza las lineas
