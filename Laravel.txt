@@ -1,4 +1,4 @@
-///////////////////////COMANDOS DE LARAVEL
+///////////////////////COMANDOS DE LARAVEL SIRVEN PARA CREAR UN PROYECTO DESDE 0
 
 composer create laravel/laravel usuarios
 composer create-project --prefer-dist laravel/laravel sistema

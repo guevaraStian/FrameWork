@@ -1,6 +1,6 @@
 Algunos comandos que se usa en el framework angular, y en la mayoria de casos, el "--" explica para que sirve el codigo.
 
-//NPM
+//NPM DE ANGULAR
 npm install
 npm init
 npm update
@@ -21,7 +21,7 @@ npm install --save-dev nodemon
 npm install --save shortid multer //molter
 npm install --cache
 
-//NVM
+//NVM DE ANGULAR
 nvm install node  --Instalar la �ltima versi�n de node:
 nvm ls-remote   --Ver todas las versiones de node disponibles para instalar:
 nvm install [version]   --Instalar una versi�n espec�fica:
@@ -30,7 +30,7 @@ nvm uninstall [version] --Desinstalar una versi�n espec�fica:
 nvm alias default [version]   --Establecer una versi�n de node por defecto
 nvm ls  -- Listar todas las versiones de node instaladas:
 
-//PM2
+//PM2 
 pm2 start [archivo] -- este es uno de los comandos PM2 que inicia una aplicaci�n de Node.js.
 pm2 startup -- configura PM2 para que se inicie autom�ticamente en el arranque del sistema.
 pm2 stop [all] -- detiene todas las aplicaciones administradas por PM2.
