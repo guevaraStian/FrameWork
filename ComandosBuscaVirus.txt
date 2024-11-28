@@ -1,0 +1,92 @@
+// 20241010 
+// Comandos para buscar posibles virus que afecten el sistema operativo
+// Sebastian Guevara Sanchez
+
+//--- EN WINDOWS
+shell:recient   //ver archivos recientemente abiertos
+administrador de tareas //historia de aplicaciones
+doskey /history   // historial de comandos ejecutados
+netstat -ano   //se ven los procesos con su puerto y su estado, nos enfocamos en los establecidos
+takslist  //vemos el id del proceso con su nombre de ejecutable
+taskkill /PID 0000 /F   //se elimina un proceso de un virus dentro del computador
+Process Explorer   //es creado por windows y muestra la empresa que creo el proceso
+
+regedit   //en ejecutar, muestra las aplicaciones que se han instalados
+attrib    //para ver archivos ocultos en la carpeta donde esta
+attrib -h archivo.exe   //le quita el estado oculto
+del -h archivo.exe   //elimino el archivo virus
+
+sfc /scannow   //Revision general del sistema operativo
+DISM /Online /Cleanup-Image /CheckHealth
+DISM /Online /Cleanup-Image /ScanHealth
+DISM /Online /Cleanup-Image /RestoreHealth
+
+mrt //en ejecutar y se escanea el computador con virus
+
+Eliminar extensiones de los navegadores para mejorar rendimiento
+//Si los sintomas persisten luego de eliminar el virus se recomienda restaurar de fabrica 
+//luego de haber guardado en otro lugar la informacion importante
+
+//--- EN LINUX
+pwd //mustra la ruta donde estas ubicado
+ls l//lista archivos donde esta ubicado
+whoami //muestra usuario de sesion
+uname -a //muestra el tipo de linux y su version
+neofetch  //graficamente la informacion del sistema opertaivo
+alias //muestra los alias creados en el sistema
+history //historial de comandos ejecutados
+top  //servicios y puertos abiertos
+netstat //procesos y puertos abiertos
+pstree //procesos en ejecucion mostrados en forma de arbol
+ps aux //monitorea procesos que se estan ejecutando
+TcpView  //permite ver conexiones de red en forma grafica
+Lshw -c video //informacion de targeta grafica
+wc long.txt  //cuantas palabras tiene el archivo de texto
+
+Eliminar extensiones de los navegadores para mejorar rendimiento
+//Si los sintomas persisten luego de eliminar el virus se recomienda restaurar de fabrica 
+//luego de haber guardado en otro lugar la informacion importante
+
+//--- EN MAC
+monitor de actividad //en el buscador de mac 
+usuarios y grupos //en el buscador de mac 
+
+//CleanMyMac
+Descarga CleanMyMac y abre la aplicacin.
+Damos clic en la pestaña Protección.
+luego clickeamos en Analizar y, después en Eliminar.
+Ábrela y haz clic en Aplicaciones > Analizar.
+Posteriormente clic en Gestionar mis aplicaciones > Desinstalador.
+Echa un vistazo a la lista de aplicaciones que vas a eliminar.
+Haz clic en el botón Eliminar.
+
+Eliminar extensiones de los navegadores para mejorar rendimiento
+//Si los sintomas persisten se recomienda restaurar de fabrica 
+//luego de haber guardado en otro lugar la informacion importante
+
+//--- EN ANDROID
+// En play protect podemos validar si hay aplicaciones virus, siguiente los siguientes pasos
+PlayStore, Menu de ajustes, play protect, analizar, ahi validamos si hay aplicaciones dañinas
+
+Usar un antivirus de los que hay en play store para buscar y analizar virus
+
+//Si los sintomas persisten luego de eliminar el virus se recomienda restaurar de fabrica 
+//luego de haber guardado en otro lugar la informacion importante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
