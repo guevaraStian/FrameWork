@@ -1,0 +1,61 @@
+// En la siguientes secuencias de elecciones, se explica como instalar el servicio https
+
+// En windows, En administrar equipos, clic dercho en el sitio web en el que se desea aplicar SSL
+// Seleccionamos propiedades, la perstaña sitio web, y seleccionar la opcion https 
+
+//-----------------
+// los 2 siguientes secuencia de codigo es en Ubuntu
+sudo apt-get -y update
+sudo apt-get -y install apache2
+sudo apt-get -y install openssl
+chmod 600 /etc/ssl/certs/*
+chmod 600 /etc/ssl/private/*
+a2enmod ssl
+service apache2 restart
+cat /var/log/apache2/error.log
+
+sudo apt update
+sudo apt install apache2
+chmod 600 /etc/ssl/certs/*
+chmod 600 /etc/ssl/private/*
+sudo a2enmod ssl
+sudo systemctl restart apache2
+cat /var/log/apache2/error.log
+
+// Los siguiente comando sirven en CentOS, Fedora, Red Hat, Oracle Linux
+sudo yum -y install httpd
+sudo systemctl enable httpd
+sudo systemctl start httpd
+sudo systemctl status httpd
+chmod 600 /etc/ssl/certs/*
+chmod 600 /etc/ssl/private/*
+sudo systemctl restart httpd
+cat /var/log/apache2/error.log
+
+
+// Los siguiente comando sirven en Oracle Linux
+sudo dnf install mod_ssl
+sudo systemctl enable httpd
+sudo systemctl restart httpd
+sudo systemctl status httpd
+chmod 600 /etc/ssl/certs/*
+chmod 600 /etc/ssl/private/*
+sudo systemctl restart httpd
+cat /var/log/apache2/error.log
+
+
+//----------
+// Luegode instalar el httpd en el linux 
+// en el tipo de linux que se describe anteriormente, luego de realizarlo se 
+// ejecuta un sudo nano, para anexarle el siguiente codigo ahi
+sudo nano /etc/httpd/conf.d/ejemplo.conf
+
+ejemplo.com
+
+ServerName ejemplo.com
+ServerAlias ejemplo.com
+
+DocumentRoot /var/www/html/rutadelaaplicacion
+
+
+
