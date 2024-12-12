@@ -1,4 +1,4 @@
-// 20241010 
+-// 20241010 
 // Comandos para buscar posibles virus que afecten el sistema operativo
 // Sebastian Guevara Sanchez
 

